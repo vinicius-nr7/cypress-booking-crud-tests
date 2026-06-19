@@ -68,3 +68,10 @@ O que você verá ao rodar os testes:
 ### Update Booking (PUT/PATCH) → atualização completa e parcial
 
 ### Delete Booking → exclusão e confirmação que não existe mais
+
+![Visão Geral](imagens/1.png)
+![Update Booking Sucesso](imagens/2.png)
+![PATCH apenas firstname](imagens/3.png)
+![Get Booking Sucesso](imagens/4.png)
+![Delete Booking Sucesso](imagens/5.png)
+
